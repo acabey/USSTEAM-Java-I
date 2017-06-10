@@ -1,0 +1,17 @@
+﻿Extra Assignments
+
+
+If you finish everything, these are meant to be very hard so you have something to do
+
+
+1. Write a program that gets 2 numbers as input, then prints out whichever one is bigger
+2. Write a program that gets 2 numbers as input, then prints out “true” if either of them is in the range 10..20 inclusive. Print out “false” otherwise
+3. Write a program that gets 3 numbers as input, then prints out “true” if any of the three are ‘teens’ (13, 14, 15…,19). Print out “false” otherwise
+4. Write a program that will print out every number from 0 to 100
+5. Write a program that will print out the odd numbers from 0 to 100
+6. Write a program that gets 2 numbers as input then prints out whichever is closer to 10. If they are both equally close, print 0
+7. Write a program that will print from 0 to infinity
+8. Write a program that gets a number as input, then prints ‘fizz’ if it is a multiple of 3, ‘buzz’ if it is a multiple of 5, and ‘fizzbuzz’ if it is a multiple of both 3 and 5. If it is not a multiple of either, just print out the number
+9. Write a program that gets 2 numbers as input, then prints out “true” if only one is a ‘teen’ (13, 14, 15…,19). Print out “false” otherwise
+10. Write a program that gets 2 numbers as input, then print out “true” if the two numbers have the same ones digit. Print ‘false’ otherwise
+11. Write a program that gets 2 numbers as input, then print out “true” if the two numbers have the same tens digit. Print ‘false’ otherwise
