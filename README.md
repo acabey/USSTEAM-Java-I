@@ -79,7 +79,7 @@ guidance and instructor direction -- and Battleship -- a much more challenging
 game targeted towards students who demonstrate high aptitude and high interest.
 
 For each of these I have included samples written primarily by students,
-[Hangman](https://github.com/acabey/ussteam-hangman/|Hangman)
+[Hangman](https://github.com/acabey/ussteam-hangman/)
 [Battleship](https://github.com/acabey/ussteam-battleship)
 
 ### Licensing
